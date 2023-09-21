@@ -1,0 +1,27 @@
+td{
+    text-align: center;
+}
+.bg1{
+    background-color: yellow;
+}
+.bg2{
+    background-color: green;
+}
+.bg3{
+    background-color: red;
+}
+.bg4{
+    background-color: purple;
+}
+.bg5{
+    background-color: rgb(255, 141, 100);
+}
+.bg6{
+    background-color: rgb(102, 102, 247);
+}
+.bg7{
+    background-color: pink;
+}
+.bg8{
+    background-color: rgb(187, 185, 185);
+}

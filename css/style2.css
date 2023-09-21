@@ -1,0 +1,29 @@
+.tbstyle{
+    width: 90%;
+    border: 1px solid red;
+}
+td{
+    border: 1px solid red;
+    padding: 5px;
+    padding-bottom: 5px;
+}
+.star{
+    color: red;
+    font-weight: bold;
+}
+.label{
+    font-weight: bold;
+}
+.rightitem{
+    text-align: right;
+}
+.lefttitem{
+    text-align: left;
+}
+.rightitem2{
+    text-align: center;
+}
+.tbstyle2{
+    width: 100%;
+    border: 1px solid red;
+}
